@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+form > a{
+  margin-left: 1rem;
+}
+
+.pointer{
+  cursor:pointer;
+  background-color: blue;
+  border-radius: 50%;
+}
+
+.table a {
+  margin-right:1rem;
+}
